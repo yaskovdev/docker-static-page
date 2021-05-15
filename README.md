@@ -1,1 +1,1 @@
-# docker-static-page
+# Docker Static Page
